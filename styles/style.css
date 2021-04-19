@@ -1,9 +1,13 @@
 html {
     font-size: 10px;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Merriweather', serif;
   }h1 {
     font-size: 60px;
     text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00007c;
+    text-shadow: 3px 3px 2px #00007c;
   }
    h2 {
     font-size: 20px;
@@ -14,4 +18,22 @@ html {
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
+  }
+
+  html {
+    background-color: #00007c;
+  }
+
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #fd7e01;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 700px;
   }
