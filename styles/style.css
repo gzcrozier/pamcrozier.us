@@ -2,7 +2,7 @@ html {
     font-size: 10px;
     font-family: 'Merriweather', serif;
   }h1 {
-    font-size: 60px;
+    font-size: 70px;
     text-align: center;
     margin: 0;
     padding: 20px 0;
@@ -10,13 +10,13 @@ html {
     text-shadow: 3px 3px 2px #00007c;
   }
    h2 {
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
     color: #f2f2f2;
    }
 
   p, li {
-    font-size: 18px;
+    font-size: 25px;
     line-height: 2;
     letter-spacing: 1px;
     color: #f2f2f2;
@@ -82,7 +82,7 @@ html {
 /* Caption text */
 .text {
   color: #f2f2f2;
-  font-size: 15px;
+  font-size: 22px;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
@@ -91,7 +91,7 @@ html {
 }
 .text2 {
   color: #000000;
-  font-size: 15px;
+  font-size: 22px;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
