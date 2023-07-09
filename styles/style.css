@@ -85,7 +85,8 @@ html {
   font-size: 18px;
   background-color: #000000;
   padding: 8px 12px;
-  position: center;
+  position: fixed;
+  left: 50%;
   bottom: 8px;
   width: 70%;
   text-align: center;
@@ -95,7 +96,8 @@ html {
   font-size: 18px;
   background-color: #f2f2f2;
   padding: 8px 12px;
-  position: center;
+  position: fixed;
+  left: 50%;
   bottom: 8px;
   width: 70%;
   text-align: center;
