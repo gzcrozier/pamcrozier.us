@@ -10,13 +10,13 @@ html {
     text-shadow: 3px 3px 2px #00007c;
   }
    h2 {
-    font-size: 30px;
+    font-size: 26px;
     text-align: center;
     color: #f2f2f2;
    }
 
   p, li {
-    font-size: 25px;
+    font-size: 22px;
     line-height: 2;
     letter-spacing: 1px;
     color: #f2f2f2;
@@ -82,7 +82,7 @@ html {
 /* Caption text */
 .text {
   color: #f2f2f2;
-  font-size: 22px;
+  font-size: 18px;
   background-color: #000000;
   padding: 8px 12px;
   position: absolute;
@@ -92,7 +92,7 @@ html {
 }
 .text2 {
   color: #000000;
-  font-size: 22px;
+  font-size: 18px;
   background-color: #f2f2f2;
   padding: 8px 12px;
   position: absolute;
